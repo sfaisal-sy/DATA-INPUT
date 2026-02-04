@@ -4,7 +4,9 @@ body{
 }
 
 .btn-primary {
-    width: 92%;
+    
+    width:60%;
+    display:block;
     
 }
 .container {
