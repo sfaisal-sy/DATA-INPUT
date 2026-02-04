@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.btn-primary {
+    width: 92%;
+    
+}
+
+.containre, .row, .col {
+    /* border:  2px solid red; */
+}
