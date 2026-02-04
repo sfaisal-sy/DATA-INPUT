@@ -11,6 +11,11 @@ body{
     max-width: 1000px;
 }
 
+.btn {
+    width:60%;
+    display:block;
+}
+
 .containre, .row, .col {
     /* border:  2px solid red; */
 }
